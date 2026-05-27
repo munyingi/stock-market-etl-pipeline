@@ -50,4 +50,4 @@ This project extracts real-time stock market data from Yahoo Finance API, transf
 See the detailed guide for step-by-step instructions for each part.
 
 ---
-**Created as a data engineering learning project** | Last Updated: 2024
+**Created as a data engineering learning project** | Last Updated: 2026
