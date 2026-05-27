@@ -1,0 +1,19 @@
+# Data Processing
+pandas==2.0.3
+numpy==1.24.3
+
+# API & HTTP
+yfinance==0.2.28
+requests==2.31.0
+
+# Database
+psycopg2-binary==2.9.7
+SQLAlchemy==2.0.19
+
+# Utilities
+python-dotenv==1.0.0
+python-logging==2.29.2
+
+# Visualization
+matplotlib==3.7.2
+seaborn==0.12.2
